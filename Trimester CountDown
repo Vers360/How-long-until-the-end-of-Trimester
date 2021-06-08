@@ -28,16 +28,16 @@ body{
 }
 
 .days {
-  background: #DBB3B1;
+  background: #A67F8E;
 }
 
 .hours {
   background: #C89FA3;
-  color: #183059;
+  color: #FCDEBE;
 }
 
 .minutes {
-  background: #A67F8E;
+  background: #DBB3B1;
 }
 
 
